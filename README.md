@@ -1,6 +1,6 @@
 # Object Oriented Programming
 
-## University Management System
+## 1-University Management System
 
 * There are classrooms, study offices and departments belonging to the university.
 
@@ -14,7 +14,7 @@
 
 **Note:** It is not necessary to specify the attributes and behaviors of the classes.
 
-## Zoo Management
+## 2-Zoo Management
 
 Bir hayvanat bahçesindeki hayvanlar hakkındaki bilgileri takip etmek için bir sistem tasarlıyorsunuz.
 
